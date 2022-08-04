@@ -1,7 +1,7 @@
 v 3
-file . "seq_rec_testbench.vhd" "20220804011102.000" "20220803221105.383":
-  entity seq_rec_testbench at 2( 45) + 0 on 17;
-  architecture testbench of seq_rec_testbench at 10( 203) + 0 on 18;
-file . "seq_rec.vhd" "20220804010814.000" "20220803221025.385":
-  entity seq_rec at 3( 93) + 0 on 15;
-  architecture process_3 of seq_rec at 11( 233) + 0 on 16;
+file . "seq_rec_testbench.vhd" "20220804215244.000" "20220804185524.101":
+  entity seq_rec_testbench at 2( 45) + 0 on 25;
+  architecture testbench of seq_rec_testbench at 10( 203) + 0 on 26;
+file . "seq_rec.vhd" "20220804010814.000" "20220804185523.996":
+  entity seq_rec at 3( 93) + 0 on 23;
+  architecture process_3 of seq_rec at 11( 233) + 0 on 24;
