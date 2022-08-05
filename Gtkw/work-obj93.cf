@@ -1,0 +1,7 @@
+v 3
+file . "seq_rec.vhd" "20220804222740.000" "20220804192817.540":
+  entity seq_rec at 3( 93) + 0 on 53;
+  architecture process_3 of seq_rec at 11( 233) + 0 on 54;
+file . "seq_rec_testbench.vhd" "20220804222814.000" "20220804192817.629":
+  entity seq_rec_testbench at 2( 45) + 0 on 55;
+  architecture testbench of seq_rec_testbench at 10( 203) + 0 on 56;

@@ -10,7 +10,7 @@ end seq_rec_testbench;
 architecture testbench of seq_rec_testbench is
 	signal clock, X, reset, Z: std_logic;
 	signal test_sequence : std_logic_vector(0 to 10)
-		:= "01001100110";
+		:= "01001001100";
 
 	constant PERIOD : time := 100 ns;
 

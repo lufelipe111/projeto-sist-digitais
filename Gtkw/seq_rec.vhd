@@ -28,6 +28,7 @@ begin
 -- a function of input X and state.
 	next_state_func: process (X, state)
 	begin
+		Z <= '0';
 		case state is
 			when A =>
 				if X = '1' then
@@ -54,29 +55,13 @@ begin
 					next_state <= A;
 				end if;
 			when E =>
+				Z <= '1';
 				if X = '1' then
 					next_state <= B;
 				else
-					next_state <= A;
+					next_state <= C;
 				end if;
 		end case;
 	end process;
 
--- Process 3 - output_function: implements output as function
--- of input X and state.
-	output_func: process (X, state)
-	begin
-		case state is
-			when A =>
-				Z <= '0';
-			when B =>
-				Z <= '0';
-			when C =>
-				Z <= '0';
-			when D =>
-				Z <= '0';
-			when E =>
-				Z <= '1';
-		end case;
-	end process;
 end;
