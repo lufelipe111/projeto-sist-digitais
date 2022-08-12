@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\lufel\OneDrive\햞ea de Trabalho\UFABC\Sistemas Digitais\simulation\modelsim
+Eseq_rec_1001
+Z1 w1659656177
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\lufel\OneDrive\햞ea de Trabalho\UFABC\Sistemas Digitais\simulation\modelsim
+Z5 8C:/Users/lufel/OneDrive/햞ea de Trabalho/UFABC/Sistemas Digitais/req_sec_1001.vhd
+Z6 FC:/Users/lufel/OneDrive/햞ea de Trabalho/UFABC/Sistemas Digitais/req_sec_1001.vhd
+l0
+L6
+VzaVFKa`nhzLZzdj<JPWVn1
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1660341717.368000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/lufel/OneDrive/햞ea de Trabalho/UFABC/Sistemas Digitais/req_sec_1001.vhd|
+Z10 !s107 C:/Users/lufel/OneDrive/햞ea de Trabalho/UFABC/Sistemas Digitais/req_sec_1001.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 :4Rgc80aHY]m]N^8ka_CP1
+!i10b 1
+Aprocess_3
+R2
+R3
+DEx4 work 12 seq_rec_1001 0 22 zaVFKa`nhzLZzdj<JPWVn1
+l14
+L11
+V77H8oK^^OENGz5hKOjG`;3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 FEoX^ce;ez3]MAAn]F2e_0
+!i10b 1
+Eseq_rec_1001_vhd_tst
+Z13 w1659660684
+R2
+R3
+R4
+Z14 8C:/Users/lufel/OneDrive/햞ea de Trabalho/UFABC/Sistemas Digitais/simulation/modelsim/seq_rec_1001.vht
+Z15 FC:/Users/lufel/OneDrive/햞ea de Trabalho/UFABC/Sistemas Digitais/simulation/modelsim/seq_rec_1001.vht
+l0
+L30
+Vcn`]aQ`2MVd9L6QckF;zg0
+!s100 @;ZQLKY12kCU;85;4lNPE1
+R7
+32
+!i10b 1
+Z16 !s108 1660341799.969000
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/lufel/OneDrive/햞ea de Trabalho/UFABC/Sistemas Digitais/simulation/modelsim/seq_rec_1001.vht|
+Z18 !s107 C:/Users/lufel/OneDrive/햞ea de Trabalho/UFABC/Sistemas Digitais/simulation/modelsim/seq_rec_1001.vht|
+Z19 o-work work -O0
+R12
+Aseq_rec_1001_arch
+R2
+R3
+DEx4 work 20 seq_rec_1001_vhd_tst 0 22 cn`]aQ`2MVd9L6QckF;zg0
+l53
+L32
+V_PoBbPAlD4kEO26z?MG1V1
+!s100 ioY]<6nWBLGm[h861B[P[0
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R19
+R12
